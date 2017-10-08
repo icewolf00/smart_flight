@@ -28,7 +28,7 @@ class Main:
         city_from_index = get_city_index[0]
         city_to_index = get_city_index[1]
         flight = Qpx.get_flight(city_from_index, city_to_index, date_format)
-        city_url = City.get_city_url(city_to_index)
+        #city_url = City.get_city_url(city_to_index)
         #pixnet_url = Pixnet.get_url('city_to_index')
         
         data = '' 
@@ -40,11 +40,8 @@ class Main:
         company_name_start = data.index('航空公司') + 5
         company_name_end = data.index('出發時間')
         company_name = data[company_name_start: company_name_end] 
-        print(company_name)
-
         company_url = Link.get_link(company_name)
-        print(company_url)
-        return data, city_url, company_url  
+        return data, company_url  
 
 
 #main = Main 
@@ -77,9 +74,9 @@ class bot(generic.View):
                         try:
                             data = Main.get_flight(text)
                             ticket = data[0]
-                            city_url = data[1]
+                            company_url = data[1]
                             #post_facebook_message(sender_id, ticket, 'https://www.skyscanner.com.tw/', '訂票') 
-                            post_facebook_message(sender_id, ticket, city_url, '痞客邦') 
+                            post_facebook_message(sender_id, ticket, company_url, '痞客邦') 
                         except:
                             post_facebook_message(sender_id, '查無結果', 'https://www.facebook.com/smart.flight.tw/', 'Smart Flight')
                 except:
