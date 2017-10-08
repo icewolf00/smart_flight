@@ -28,7 +28,7 @@ class Main:
         city_from_index = get_city_index[0]
         city_to_index = get_city_index[1]
         flight = Qpx.get_flight(city_from_index, city_to_index, date_format)
-        city_url = City.get_city_url(city_to_index )
+        city_url = City.get_city_url(city_to_index)
         #pixnet_url = Pixnet.get_url('city_to_index')
         
         data = '' 
