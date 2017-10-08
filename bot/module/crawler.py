@@ -4,6 +4,7 @@ class City:
     def get_city_index(city_from, city_to):
         city_from = city_from.lower()
         city_to = city_to.lower()
+        print(city_from, city_to)
         with open('city2.csv', 'r') as csvfile:
             reader = csv.DictReader(csvfile)
             city_from_index = ''
