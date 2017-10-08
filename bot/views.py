@@ -40,6 +40,7 @@ class Main:
         company_name_start = data.index('航空公司') + 5
         company_name_end = data.index('出發時間')
         company_name = data[company_name_start: company_name_end] 
+        print(company_name)
 
         company_url = Link.get_link(company_name)
         print(company_url)
