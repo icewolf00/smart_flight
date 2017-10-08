@@ -1,276 +1,273 @@
-cht,eng
-北京,PEK
-上海,SHA
-天津,TSN
-西安,SIA
-杭州,HGH
-大連,DLC
-青島,TAO
-福州,FOC
-廈門,XMN
-昆明,KMG
-南京,NKG
-汕頭,SWA
-桂林,KWL
-成都,CTU
-廣州,CAN
-海口,HAK
-長沙,CSX
-煙台,YNT
-重慶,CKG
-溫州,WNZ
-三亞,SYX
-哈爾濱,HRB
-深圳,SZX
-南昌,KHN
-香港,HKG
-澳門,MFM
-台北,TPE
-高雄,KHH
-東京,TYO
-大阪,OSA
-名古屋,NGO
-札幌,SPK
-福岡,FUK
-沖繩,OKA
-漢城,SEL
-釜山,PUS
-新加坡,SIN
-吉隆坡,KUL
-檳城,PEN
-怡保,IPH
-曼谷,BKK
-清邁,CNX
-普吉島,HKT
-古晉,KCH
-雅加達,JKT
-巴里島,DPS
-棉蘭,MES
-巨港,PLM
-泗水,SUB
-仰光,RGN
-河內,HAN
-金邊,PNH
-西貢,SGN
-永珍,VTE
-馬尼拉,MNL
-宿霧,CEB
-帝利,DIL
-亞庇,BKI
-達卡,DAC
-詩鄔,SBW
-塞班,SPN
-汶來,BWN
-新得里,DEL
-喀布爾,KBL
-吉大港,CGP
-喀拉蚩,KHI
-東加大埔,TBU
-諾魯,INU
-碧港,BAG
-孟買,BOM
-可倫坡,CMB
-加爾各答,CCU
-馬德拉斯,MAA
-加得滿都,KTM
-墨西哥,MEX
-聖薩爾瓦多,SAL
-巴拿馬,PTY
-哈瓦納,BOG
-波哥大,UIO
-基多,LIM
-利馬,SCL
-聖地牙哥,SAN
-布宜諾艾利斯,BUE
-聖保羅,SAO
-里約熱內盧,RIO
-巴西利亞,BSB
-加拉加斯,CCS
-開雪,CAY
-蒙地維多,MVD
-馬拿瓜,MGA
-瓜地馬拉,GUA
-聖多明哥,SDQ
-拉巴斯,LPB
-京士頓,KIN
-聖湖安,SJU
-太子港,PAP
-蒙特哥灣,MBJ
-聖約瑟,SJO
-德古斯加巴,TGU
-亞加普科,ACA
-橋鎮,BGI
-西班牙港,POS
-亞松森,ASU
-瑪瑙斯,MAO
-雷雪夫,REL
-巴拉馬利波,PBM
-喬治市,GRG
-倫敦,LON
-巴黎,PAR
-日內瓦,GVA
-蘇黎世,ZRH
-柏林,BER
-漢堡,HAM
-法蘭克福,FRA
-科隆,CGN
-幕尼黑,MUC
-都伯林,DUB
-汕隆,SNN
-華沙,WAW
-阿姆斯特丹,AMS
-布魯塞爾,BRU
-維也納,VIE
-布拉格,PRG
-布達佩斯,BUD
-雅典,ATH
-米蘭,MIL
-羅馬,ROM
-巴塞隆納,BCN
-波昂,BNJ
-杜塞道夫,DUS
-斯圖加特,STR
-愛丁堡,EDI
-索非亞,SOF
-伊斯坦堡,IST
-里斯本,LIS
-馬德里,MAD
-直布羅陀,GIB
-貝爾格來得,BEG
-布加勒斯,BUH
-曼徹斯特,MAN
-哥本哈根,CPH
-奧斯陸,OSL
-斯德哥爾摩,STO
-赫爾辛基,HEL
-格拉斯哥,GLA
-尼斯,NCE
-紐約,SWF
-費城,PHL
-波士頓,BOS
-華盛頓,WAS
-芝加哥,CHI
-底特律,DTT
-匹茲堡,PIT
-克里夫蘭,CLE
-水牛城,BUF
-印第安那,IND
-聖路易,STL
-明尼亞玻利,MSP
-堪薩斯城,MKC
-休斯頓,HOU
-達拉斯,DFW
-新奧爾良,MSY
-奧克拉荷馬城,OKC
-亞特蘭大,ATL
-邁阿密,MIA
-吐桑,TUS
-小岩石城,LIT
-辛辛那提,CVG
-丹佛,DEN
-鳳凰城,PHX
-鹽湖城,SLC
-拉斯維加斯,LAS
-阿波寇爾喀,ABQ
-波特蘭,PDX
-舊金山,SFO
-洛杉磯,LAX
-西雅圖,SEA
-安克拉治,ANC
-關島,GUM
-奧蘭多,ORL
-聖荷西,SJC
-聖安東尼,SAT
-米爾瓦基,MKE
-巴爾的摩,MTN
-夏威夷,HNL
-溫哥華,YVR
-多倫多,YYZ
-渥太華,YOW
-蒙特婁,YMQ
-溫尼伯,YMG
-卡加立,YYC
-愛德頓,YEA
-干達,YQX
-哈立法克斯,YHZ
-開羅,CAI
-開普敦,CPT
-貝魯特,BEY
-台拉維夫,TLV
-大馬士革,DAM
-安曼,AMM
-吉達,JED
-巴林,BAH
-約翰尼斯堡,JNB
-金夏沙,FIA
-馬爾他,MLA
-突尼斯,TUN
-達卡,DKR
-班基,BGF
-布拉薩市,BZV
-模里西斯,MRU
-杜拜,DXB
-科威特,KWI
-巴格達,BGW
-德黑蘭,THR
-地黎波斯,TIP
-阿爾吉爾,ALG
-卡薩馬達卡,CAS
-拉斯馬巴斯,LPA
-科那克里,CKY
-自由城,FNA
-巴馬科,BKO
-阿必尚,ABJ
-蒙羅維亞,MLW
-尼阿美,NIM
-阿克拉,ACC
-瓦加杜古,OUA
-拉米堡,FTL
-亞恩德,YAO
-科多努,COO
-拉哥斯,LOS
-自由府,LVB
-盧安達,LAD
-溫黎克,WDH
-卡吐穆,KRT
-伊斯坦堡,IST
-安卡拉,ANK
-亞丁,ADE
-馬斯開特,MCT
-阿巴具,ABD
-塔那那次棉,TNR
-愛丁堡,EDI
-洛梅,LFW
-馬基魯,MSU
-馬基尼,MTS
-杜哈,DOH
-達蘭,DHA
-利雅德,RUH
-里郎威,LLW
-恩將納,NDJ
-達來撤蘭,DAR
-露沙卡,LUN
-摩加迪修,MGO
-恩特比/坎帕拉,EBB
-阿迪斯阿魯巴,ADD
-奈洛彼,NBO
-布蘭太,BLZ
-魯倫素馬凱斯,LUM
-索斯伯里,SAY
-達爾文,DRW
-伯斯,PER
-雪梨,SYD
-布里斯本,BNE
-坎培拉,CBR
-墨爾本,MEB
-基督城,CHC
-威靈頓,WLG
-奧克蘭,AKL
-努美亞,NOU
-南地,NAN
-巴哥巴哥,PPG
-凱恩斯,CNS
-何巴特,HBT
-摩勒斯比港,POM
-蘇瓦,SUV
-大溪地,PPT
+cht,eng,code
+北京,Beijing,PEK
+上海,Shanghai,SHA
+天津,Tianjin,TSN
+西安,Xi'an,SIA
+杭州,Hangzhou,HGH
+大連,Dalian,DLC
+青島,Qingdao,TAO
+福州,Fuzhou,FOC
+廈門,Xiamen,XMN
+昆明,Kunming,KMG
+南京,Nanjing,NKG
+汕頭,Shantou,SWA
+桂林,Guilin,KWL
+成都,Chengdu,CTU
+廣州,Guangzhou,CAN
+海口,Haikou,HAK
+長沙,Changsha,CSX
+煙台,Yantai,YNT
+重慶,Chongqing,CKG
+溫州,Wenzhou,WNZ
+三亞,Sanya,SYX
+哈爾濱,Harbin,HRB
+深圳,Shenzhen,SZX
+南昌,Nanchang,KHN
+城市,city,機場縮寫
+香港,Hong Kong,HKG
+澳門,Macao,MFM
+台北,Taipei,TPE
+高雄,Kaohsiung,KHH
+城市,city,機場縮寫
+東京,Tokyo,HND
+大阪,Osaka,ITM
+名古屋,Nagoya,NGO
+福岡,Fukuoka,FUK
+沖繩,Okinawa,OKA
+首爾,Seoul,GMP
+釜山,Busan,PUS
+城市,city,機場縮寫
+新加坡,Singapore,SIN
+吉隆坡,Kuala Lumpur,KUL
+檳城,Penang,PEN
+怡保,Ipoh,IPH
+曼谷,Bangkok,BKK
+清邁,Chiang Mai,CNX
+普吉島,Phuket,HKT
+古晉,Kuching,KCH
+巴里島,Bari,DPS
+棉蘭,Medan,MES
+巨港,Mega port,PLM
+泗水,Surabaya,SUB
+仰光,Yangon,RGN
+河內,Hanoi,HAN
+金邊,Phnom Penh,PNH
+西貢,Sai Kung,SGN
+永珍,Vincent,VTE
+馬尼拉,Manila,MNL
+宿霧,Cebu,CEB
+帝利,Emperor Lee,DIL
+亞庇,Kota Kinabalu,BKI
+達卡,Dhaka,DAC
+詩鄔,Poem Wu,SBW
+塞班,Saipan,SPN
+汶來,Wen Lai,BWN
+新得里,New ones,DEL
+喀布爾,Kabul,KBL
+吉大港,Chittagong,CGP
+喀拉蚩,Karachi Chi,KHI
+東加大埔,East and Canada,TBU
+諾魯,Noruu,INU
+碧港,Bikang,BAG
+孟買,Mumbai,BOM
+可倫坡,Colombo,CMB
+加爾各答,Calcutta,CCU
+馬德拉斯,Madras,MAA
+加得滿都,Plus all,KTM
+地名,Place names,機場縮寫
+墨西哥,Mexico,MEX
+聖薩爾瓦多,San Salvador,SAL
+巴拿馬,Panama,PTY
+波哥大,Bogota,BOG
+基多,Quito,LIM
+利馬,Lima,SCL
+聖地牙哥,San Diego,SAN
+布宜諾斯艾利斯,Buenos Aires,AEP
+里約熱內盧,Rio de Janeiro,RIO
+巴西利亞,Brasilia,BSB
+加拉加斯,Caracas,CCS
+開雪,Snow,CAY
+蒙地維多,Montevideo,MVD
+馬拿瓜,Managua,MGA
+瓜地馬拉,Guatemala,FRS
+聖多明哥,Santo Domingo,SDQ
+拉巴斯,La Paz,LPB
+京士頓,Kingston,KIN
+聖湖安,Holy lake,SJU
+太子港,Port-au-Prince,PAP
+蒙特哥灣,Montego Bay,MBJ
+聖約瑟,San Jose,SJO
+德古斯加巴,Degussa Gaba,TGU
+亞加普科,Yakapuke,ACA
+橋鎮,Town,BGI
+西班牙港,Port of Spain,POS
+亞松森,Asuncion,ASU
+瑪瑙斯,Manaus,MAO
+雷雪夫,Lei Shifu,REL
+巴拉馬利波,Balamali waves,PBM
+城市,city,機場縮寫
+倫敦,London,LTN
+巴黎,Paris,CDG
+蘇黎世,Zurich,ZRH
+柏林,Berlin,BER
+漢堡,Hamburgers,HAM
+法蘭克福,Frankfurt,FRA
+科隆,Cologne,CGN
+幕尼黑,Screen black,MUC
+都伯林,Dublin,DUB
+汕隆,Shantou Long,SNN
+華沙,Warsaw,WAW
+阿姆斯特丹,Amsterdam,AMS
+布魯塞爾,Brussels,BRU
+維也納,Vienna,VIE
+布拉格,Prague,PRG
+布達佩斯,Budapest,BUD
+雅典,Athens,ATH
+米蘭,Milan,MXP
+巴塞隆納,Barcelona,BCN
+波昂,Boon,BNJ
+杜塞道夫,Dusseldorf,DUS
+斯圖加特,Stuttgart,STR
+愛丁堡,Edinburgh,EDI
+索非亞,Sofia,SOF
+伊斯坦堡,Istanbul,IST
+里斯本,Lisbon,LIS
+馬德里,Madrid,MAD
+直布羅陀,Gibraltar,GIB
+貝爾格來得,Belger is coming,BEG
+布加勒斯,Bucharest,BUH
+曼徹斯特,Manchester,MAN
+哥本哈根,Copenhagen,CPH
+赫爾辛基,Helsinki,HEL
+格拉斯哥,Glasgow,GLA
+尼斯,Nice,NCE
+地名,Place names,機場縮寫
+紐約,new York,JFK
+費城,Philadelphia,PHL
+波士頓,Boston,BOS
+華盛頓,Washington,IAD
+芝加哥,Chicago,ORD
+底特律,Detroit,DTW
+匹茲堡,Pittsburgh,PIT
+克里夫蘭,Cleveland,CLE
+水牛城,Buffalo City,BUF
+印第安那,Indiana,IND
+聖路易,St. Louis,STL
+明尼亞玻利,Minneapolis,MSP
+堪薩斯城,Kansas City,MKC
+休斯頓,Houston,HOU
+達拉斯,Dallas,DFW
+新奧爾良,New Orleans,MSY
+奧克拉荷馬城,Oklahoma City,OKC
+亞特蘭大,Atlanta,ATL
+邁阿密,Miami,MIA
+吐桑,Spit,TUS
+小岩石城,Little Rock City,LIT
+辛辛那提,Cincinnati,CVG
+丹佛,Denver,DEN
+鳳凰城,Phoenix city,PHX
+鹽湖城,Salt Lake City,SLC
+拉斯維加斯,Las Vegas,LAS
+阿波寇爾喀,Apoco Calka,ABQ
+波特蘭,Portland,PDX
+舊金山,San Francisco,SFO
+洛杉磯,Los Angeles,LAX
+西雅圖,Seattle,SEA
+安克拉治,Anchorage,ANC
+關島,Guam,UAM
+聖荷西,San Jose,SJC
+聖安東尼,St. Anthony,SAT
+米爾瓦基,Milwaukee,MKE
+巴爾的摩,Baltimore,BWI
+夏威夷,Hawaii,HNL
+溫哥華,Vancouver,YVR
+多倫多,Toronto,YYZ
+渥太華,Ottawa,YOW
+溫尼伯,Winnipeg,YMG
+卡加立,Kaga legislation,YYC
+愛德頓,Edton,YEA
+干達,Dry up,YQX
+哈立法克斯,Halifax,YHZ
+地名,Place names,機場縮寫
+開羅,Cairo,CAI
+開普敦,Cape Town,CPT
+貝魯特,Beirut,BEY
+台拉維夫,Tyraview,TLV
+大馬士革,Damascus,DAM
+安曼,Amman,AMM
+吉達,Jeddah,JED
+巴林,Bahrain,BAH
+約翰尼斯堡,Johannesburg,JNB
+金夏沙,Kinshasa,FIA
+馬爾他,Malta,MLA
+突尼斯,Tunisia,TUN
+達卡,Dhaka,DKR
+班基,Benki,BGF
+布拉薩市,City of Braga,BZV
+模里西斯,Moses,MRU
+杜拜,Dubai,DXB
+科威特,Kuwait,KWI
+巴格達,Baghdad,BGW
+德黑蘭,Tehran,THR
+地黎波斯,Reese,TIP
+阿爾吉爾,Algiers,ALG
+卡薩馬達卡,Casa Madka,CAS
+拉斯馬巴斯,Rasmus Bass,LPA
+科那克里,Corner Kerry,CKY
+自由城,city ??of freedom,FNA
+巴馬科,Bamako,BKO
+阿必尚,A must still,ABJ
+蒙羅維亞,Monrovia,MLW
+尼阿美,Niamei,NIM
+阿克拉,Accra,ACC
+瓦加杜古,Ouagadougou,OUA
+拉米堡,Rami fort,FTL
+亞恩德,Yaande,YAO
+科多努,Codonu,COO
+拉哥斯,Lagos,LOS
+自由府,Free government,LVB
+盧安達,Luanda,LAD
+溫黎克,Warm like,WDH
+卡吐穆,Cassoumu,KRT
+伊斯坦堡,Istanbul,IST
+安卡拉,Ankara,ANK
+亞丁,Aden,ADE
+馬斯開特,Maasite,MCT
+阿巴具,Aba,ABD
+塔那那次棉,Tana that cotton,TNR
+愛丁堡,Edinburgh,EDI
+洛梅,Lome,LFW
+馬基魯,Machiru,MSU
+馬基尼,Makini,MTS
+杜哈,Doha,DOH
+達蘭,Dalan,DHA
+利雅德,Riyadh,RUH
+里郎威,Lang Lang,LLW
+恩將納,En will be satisfied,NDJ
+達來撤蘭,Up to the blue,DAR
+露沙卡,Lusha card,LUN
+摩加迪修,Mogadishu,MGO
+恩特比/坎帕拉,Entebbe / Kampala,EBB
+阿迪斯阿魯巴,Adis Aruba,ADD
+奈洛彼,Nairobi,NBO
+布蘭太,Blanty too,BLZ
+魯倫素馬凱斯,Rulun Sui Ma Ke Si,LUM
+索斯伯里,Thomsbury,SAY
+地名,Place names,機場縮寫
+達爾文,Darwin,DRW
+伯斯,Perth,PER
+雪梨,Sydney,SYD
+布里斯本,Brisbane,BNE
+坎培拉,Canberra,CBR
+墨爾本,Melbourne,MEL
+基督城,Christchurch,CHC
+威靈頓,Wellington,WLG
+奧克蘭,Auckland,AKL
+努美亞,Noumea,NOU
+南地,South,NAN
+巴哥巴哥,Hugo princess,PPG
+凱恩斯,Cairns,CNS
+何巴特,Hebart,HBT
+摩勒斯比港,Port Moresby,POM
+蘇瓦,Suva,SUV
+大溪地,Tahiti,PPT
