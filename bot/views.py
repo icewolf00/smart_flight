@@ -34,12 +34,14 @@ class Main:
         data = '' 
         company_name_start = 0
         company_name_end = 0
-        company_name = ''
+        company_name = flight[0][0] 
         for row in flight[0][1:]:
             data = data + row
+            '''
         company_name_start = data.index('航空公司') + 5
         company_name_end = data.index('出發時間')
         company_name = data[company_name_start: company_name_end] 
+        '''
         company_url = Link.get_link(company_name)
         return data, company_url  
 
