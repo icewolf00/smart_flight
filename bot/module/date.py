@@ -91,7 +91,3 @@ class Date:
         data = '%s-%s-%s' % (year, month, date)
         print(data)
         return(data)
-#test = "April 15, 2019"
-#test = "the 4th of April, 2017"
-#test = "2017,9,5"
-#Date.date_format(test)

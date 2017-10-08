@@ -6,6 +6,6 @@ whitenoise==2.0.6
 requests
 mpmath
 pytz
-wheel
 bs4
+wheel
 
