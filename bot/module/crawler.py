@@ -5,7 +5,7 @@ class City:
         city_from = city_from.lower()
         city_to = city_to.lower()
         print(city_from, city_to)
-        with open('city2.csv', 'r') as csvfile:
+        with open('city.csv', 'r') as csvfile:
             reader = csv.DictReader(csvfile)
             city_from_index = ''
             city_to_index = ''
