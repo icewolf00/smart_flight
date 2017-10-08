@@ -41,15 +41,15 @@ class Qpx:
             mileage = data['trips']['tripOption'][i]['slice'][0]['segment'][0]['leg'][0]['mileage']
             sale_total = data['trips']['tripOption'][i]['saleTotal']
             ticket[i].append(carrier)
-            ticket[i].append('\nDeparture City: ' + city_from)
-            ticket[i].append('\nArrival City: ' + city_to)
-            ticket[i].append('\nAircraft Information: ' + aircraft)
-            ticket[i].append('\nAirline: ' + carrier)
-            ticket[i].append('\nTime Departure: ' + time_departure)
-            ticket[i].append('\nTime Arrival: ' + time_arrival)
-            ticket[i].append('\nDuration: %s (m)' % (str(duration)))
-            ticket[i].append('\nMileage: %s (km)' % (str(mileage)))
-            ticket[i].append('\nPrice: ' + sale_total)
+            ticket[i].append('\nDeparture City : ' + city_from)
+            ticket[i].append('\nArrival City : ' + city_to)
+            ticket[i].append('\nAircraft : ' + aircraft)
+            ticket[i].append('\nAirline : ' + carrier)
+            ticket[i].append('\nTime Departure : ' + time_departure)
+            ticket[i].append('\nTime Arrival : ' + time_arrival)
+            ticket[i].append('\nDuration : %s' % (str(duration)))
+            ticket[i].append('\nMileage : %s' % (str(mileage)))
+            ticket[i].append('\nPrice : ' + sale_total)
  
         return ticket
             
