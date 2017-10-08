@@ -7,6 +7,9 @@ class Date:
         date_copy = date
         date_new = ''
         year = '2017'
+        for char in date:
+            if char in "?.,!/;:":
+                date = date.replace(char, ' ')
         for alphabet in date.split():
             #print(alphabet)
             if alphabet in month_list:
@@ -88,3 +91,7 @@ class Date:
         data = '%s-%s-%s' % (year, month, date)
         print(data)
         return(data)
+#test = "April 15, 2019"
+#test = "the 4th of April, 2017"
+#test = "2017,9,5"
+#Date.date_format(test)
