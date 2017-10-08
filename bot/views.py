@@ -37,7 +37,7 @@ class Main:
             data = data + row
             if row.find('航空公司'):
                 company_name = row
-                print('company_name = 'company_name)
+                print('company_name = ' + company_name)
         return data, city_url, company_name   
 
 
