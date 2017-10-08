@@ -33,7 +33,7 @@ class Main:
         
         data = '' 
         for row in flight[0][1:]:
-            print(row)
+            print('row = ---------' + row)
             data = data + row
         return data, city_url  
 

@@ -50,4 +50,3 @@ class Luis:
      
      
      
-Luis.get_city('從台北到東京')     
