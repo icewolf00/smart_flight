@@ -23,12 +23,10 @@ cht,eng,code
 哈爾濱,Harbin,HRB
 深圳,Shenzhen,SZX
 南昌,Nanchang,KHN
-城市,city,機場縮寫
 香港,Hong Kong,HKG
 澳門,Macao,MFM
 台北,Taipei,TPE
 高雄,Kaohsiung,KHH
-城市,city,機場縮寫
 東京,Tokyo,HND
 大阪,Osaka,ITM
 名古屋,Nagoya,NGO
@@ -36,7 +34,6 @@ cht,eng,code
 沖繩,Okinawa,OKA
 首爾,Seoul,GMP
 釜山,Busan,PUS
-城市,city,機場縮寫
 新加坡,Singapore,SIN
 吉隆坡,Kuala Lumpur,KUL
 檳城,Penang,PEN
@@ -74,7 +71,6 @@ cht,eng,code
 加爾各答,Calcutta,CCU
 馬德拉斯,Madras,MAA
 加得滿都,Plus all,KTM
-地名,Place names,機場縮寫
 墨西哥,Mexico,MEX
 聖薩爾瓦多,San Salvador,SAL
 巴拿馬,Panama,PTY
@@ -105,7 +101,6 @@ cht,eng,code
 瑪瑙斯,Manaus,MAO
 雷雪夫,Lei Shifu,REL
 巴拉馬利波,Balamali waves,PBM
-城市,city,機場縮寫
 倫敦,London,LTN
 巴黎,Paris,CDG
 蘇黎世,Zurich,ZRH
@@ -141,7 +136,6 @@ cht,eng,code
 赫爾辛基,Helsinki,HEL
 格拉斯哥,Glasgow,GLA
 尼斯,Nice,NCE
-地名,Place names,機場縮寫
 紐約,new York,JFK
 費城,Philadelphia,PHL
 波士頓,Boston,BOS
@@ -188,7 +182,6 @@ cht,eng,code
 愛德頓,Edton,YEA
 干達,Dry up,YQX
 哈立法克斯,Halifax,YHZ
-地名,Place names,機場縮寫
 開羅,Cairo,CAI
 開普敦,Cape Town,CPT
 貝魯特,Beirut,BEY
@@ -253,7 +246,6 @@ cht,eng,code
 布蘭太,Blanty too,BLZ
 魯倫素馬凱斯,Rulun Sui Ma Ke Si,LUM
 索斯伯里,Thomsbury,SAY
-地名,Place names,機場縮寫
 達爾文,Darwin,DRW
 伯斯,Perth,PER
 雪梨,Sydney,SYD
