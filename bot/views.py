@@ -32,10 +32,13 @@ class Main:
         #pixnet_url = Pixnet.get_url('city_to_index')
         
         data = '' 
+        company_name = ''
         for row in flight[0][1:]:
-            print('row = ---------' + row)
             data = data + row
-        return data, city_url  
+            if row.find('航空公司'):
+                company_name = row
+                print('company_name = 'company_name)
+        return data, city_url, company_name   
 
 
 #main = Main 
