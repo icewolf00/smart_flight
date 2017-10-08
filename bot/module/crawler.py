@@ -14,6 +14,7 @@ class City:
                     city_from_index = row['code']
                 if row['cht'] == city_to:
                     city_to_index = row['code']
+        print(city_from_index, city_to_index)            
         return city_from_index, city_to_index            
 
     def get_city_url(city_to_index):
