@@ -1,4 +1,5 @@
 import datetime
+
 class Date:
     def date_format(date):
         time = datetime.datetime.now()
