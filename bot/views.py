@@ -32,8 +32,8 @@ class Main:
         #pixnet_url = Pixnet.get_url('city_to_index')
         
         data = '' 
-        company_name_start
-        company_name_end
+        company_name_start = 0
+        company_name_end = 0
         company_name = ''
         for row in flight[0][1:]:
             data = data + row
