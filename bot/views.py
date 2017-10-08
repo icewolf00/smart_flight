@@ -76,11 +76,11 @@ class bot(generic.View):
                             ticket = data[0]
                             company_url = data[1]
                             #post_facebook_message(sender_id, ticket, 'https://www.skyscanner.com.tw/', '訂票') 
-                            post_facebook_message(sender_id, ticket, company_url, '痞客邦') 
+                            post_facebook_message(sender_id, ticket, company_url, 'Book Tickets') 
                         except:
-                            post_facebook_message(sender_id, '查無結果', 'https://www.facebook.com/smart.flight.tw/', 'Smart Flight')
+                            post_facebook_message(sender_id, 'No Results.', 'https://www.facebook.com/smart.flight.tw/', 'Smart Flight')
                 except:
-                    post_facebook_message(sender_id, '謝謝！', 'https://www.facebook.com/smart.flight.tw/', 'Smart Flight')
+                    post_facebook_message(sender_id, 'Thanks for using!', 'https://www.facebook.com/smart.flight.tw/', 'Smart Flight')
         return HttpResponse()
 
 def post_facebook_message(sender_id, text, url, title):
