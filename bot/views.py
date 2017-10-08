@@ -12,7 +12,7 @@ from .module.qpx import Qpx as Qpx
 from .module.crawler import City as City
 from .module.luis import Luis as Luis
 from .module.pixnet import Pixnet as Pixnet 
-from .module.link import Link as Link
+#from .module.link import Link as Link
 #from sympy.abc import u, t, x, y, z
 class Main:
     def get_flight(text):
