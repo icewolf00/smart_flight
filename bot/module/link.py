@@ -1,5 +1,5 @@
 #from pws import Google
-from pws import Bing as Bing
+from .pws import Bing as Bing
 
 class Link:
     def get_link(company_name):
