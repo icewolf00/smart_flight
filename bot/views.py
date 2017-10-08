@@ -32,12 +32,15 @@ class Main:
         #pixnet_url = Pixnet.get_url('city_to_index')
         
         data = '' 
-        company_name_start = 0
-        company_name_end = 0
         company_name = flight[0][0] 
+        company_url = 'https://www.china-airlines.com/tw/zh'
         for row in flight[0][1:]:
             data = data + row
-        company_url = Link.get_link(company_name)
+        try:    
+            company_url = Link.get_link(company_name)
+        except:
+            pass 
+            
         return data, company_url  
 
 
