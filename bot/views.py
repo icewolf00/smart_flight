@@ -37,11 +37,13 @@ class Main:
         company_name = ''
         for row in flight[0][1:]:
             data = data + row
+            '''
             company_name_start = row.index('航空公司')
             company_name_end = row.index('出發時間')
             company_name = row[company_name_start:company_name_end] 
             print('asnclknsalckn' + company_name)
-        return data, city_url, company_name   
+            '''
+        return data, city_url   
 
 
 #main = Main 
