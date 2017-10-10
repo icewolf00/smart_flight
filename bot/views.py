@@ -33,7 +33,7 @@ class Main:
         
         data = '' 
         company_name = flight[0][0] 
-        company_url = 'https://www.china-airlines.com/tw/zh'
+        company_url = 'http://www.china-airlines.com/'
         for row in flight[0][1:]:
             data = data + row
         try:    
