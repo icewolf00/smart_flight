@@ -38,6 +38,7 @@ class Main:
             data = data + row
         try:    
             company_url = Link.get_link(company_name)
+            time.sleep(3)
             print(company_url + 'success')
         except:
             print(company_url + 'fail')
