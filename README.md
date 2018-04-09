@@ -1,5 +1,5 @@
-# Drunk Detect: Application of Face Recognition
+# Smart Flight
 ---
-Each year, drunk driving causes thousands of accidents around the world. To prevent people from drunk driving, we design an algorithm based on AI (Machine Learning and Deep Learning) to detect the feature of drunk faces. Furthermore, we expect to combine our algorithm with real vehicles (AIOT), which will literally put an end to drunk driving in the future.
+Smart Flight is an APP based on Microsoft AI (Luis), which can help you book flight tickets with pure nature language.
 
-![luis](img/luis.png)
+![demo](img/demo.png)
